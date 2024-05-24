@@ -144,7 +144,6 @@ const experiences = [
     company_name: "Social Media, Web Pages, Blogs",
     icon: contents,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
     points: [
       "Engaging Blog Posts: We create compelling and informative blog posts that capture your audience's interest and drive traffic to your website. Our content is tailored to reflect your brand's voice and resonates with your target audience, enhancing your online visibility.",
       "SEO-Optimized Content: Our content writing services include SEO optimization to improve your search engine rankings. We incorporate relevant keywords and follow best practices to ensure your content attracts organic traffic and helps your business reach a broader audience.",
@@ -157,12 +156,11 @@ const experiences = [
     company_name: "Meta",
     icon: socialmedia,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "We design comprehensive social media strategies tailored to your business goals. By planning and scheduling engaging stories, posts, and updates, we ensure consistent and impactful presence on various social media platforms.",
+      "Our team creates visually appealing and compelling content, including graphics, videos, and written posts. We focus on crafting messages that resonate with your target audience, driving engagement and fostering brand loyalty.",
+      "Utilizing advanced targeting techniques, we run effective social media campaigns and advertisements. By reaching the right audience with the right message, we help maximize your ROI and achieve your marketing objectives.",
+      "We monitor and analyze the performance of your social media activities using the latest analytics tools. This data-driven approach allows us to optimize strategies, improve engagement, and ensure continuous growth for your business online.",
     ],
   },
 ];
